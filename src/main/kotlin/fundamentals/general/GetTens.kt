@@ -1,4 +1,4 @@
-package learning.general
+package fundamentals.general
 
 fun main() {
     // Prompt the user to enter a number

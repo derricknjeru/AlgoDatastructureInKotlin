@@ -1,4 +1,4 @@
-package learning.general
+package fundamentals.general
 
 import java.util.*
 import kotlin.math.sqrt

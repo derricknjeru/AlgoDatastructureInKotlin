@@ -1,4 +1,4 @@
-package learning.general
+package fundamentals.general
 
 fun main() {
     val res = nameArgs(y = 10, x = 1)

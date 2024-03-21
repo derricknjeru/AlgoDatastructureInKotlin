@@ -1,4 +1,4 @@
-package learning.classes
+package fundamentals.practice
 
 import kotlin.properties.ReadWriteProperty
 import kotlin.reflect.KProperty
