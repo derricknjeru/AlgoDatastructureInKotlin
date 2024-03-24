@@ -1,6 +1,7 @@
 package fundamentals.general
 
 fun main() {
+    //https://www.youtube.com/watch?v=nG0e9OjVGDQ
     val trickFunction = ::trick1 //:: function reference operator
     val trickFunction2 = trick2
     trickFunction2()
